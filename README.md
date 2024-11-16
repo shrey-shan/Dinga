@@ -1,5 +1,6 @@
 # Dinga
 Repository created for micromouse competition @ Bosch India
+All the code is in Main.c Rest of it is simply a clone of mms-c which is a hello world of the mms simulator by mackorone
 
 # mms-c
 
